@@ -1,0 +1,28 @@
+body{
+    background-size:cover ;
+
+}
+.insiraseunome{
+   font-size:50px;
+    width: 100%;
+}
+.username{
+    font-size: 20px;
+}
+.speed{
+    float:right;
+}
+.volume{
+    float:left ;
+
+}
+img{
+border-radius: 500px;
+}
+.calvo{
+background-color: violet;
+
+}
+canvas{
+    margin-top: 350px;
+}
